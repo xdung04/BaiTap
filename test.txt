@@ -1,1 +1,2 @@
-Trang thêm thông tin(main2)
+
+Trang thêm thông tin(addInfor)
